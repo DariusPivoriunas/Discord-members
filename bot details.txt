@@ -1,0 +1,3 @@
+App ID: 1541864661001961533
+Public Key: b445ba1f011db79759ad86d9740f81c244126d91991b7bb5442a3fb8ad7b67cb
+BOT URL: https://discord.com/oauth2/authorize?client_id=1541864661001961533&permissions=66560&integration_type=0&scope=bot
